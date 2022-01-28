@@ -4,7 +4,7 @@
 - 🌱 I’m currently working in Godot Engine 3 and Blender.
 - 💻 Past experience in: C#, GD Script, HTML/CSS, JavaScript, Python, SQL.
 - 💞️ Not currently looking for collaboration, but I'm always open to discuss game dev and digital creation!
-- 📫 Contact me directly by [electronic mail](maritimesgameworks@gmail.com). Or catch me on the bird app: [@MaritimesGames](https://twitter.com/MaritimesGames).
+- 📫 Contact me directly by [electronic mail](mailto:maritimesgameworks@gmail.com). Or catch me on the bird app: [@MaritimesGames](https://twitter.com/MaritimesGames).
 
 <!---
 jan-domalaon/jan-domalaon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
