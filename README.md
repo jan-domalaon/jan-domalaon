@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan!
+- 👋 Hi, I’m Jan! (aka Maritimes Gameworks)
 - 👀 I’m interested in video game development. Studied mathematics, GIS and computer science in university.
 - 🌱 I’m actively working in Godot Engine 3 and Blender.
 - 💞️ Not currently looking for collaboration, but I'm always open to discuss game dev and digital creation!
