@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jan! (aka Maritimes Gameworks aka homealone)
-- 👀 I dabble in video game development, random programming projects, DAW-less music production.
-- 🎓 Major in Mathematics and minors in GIS and Computer Science.
+- 👋 Hi, I’m Jan! (aka Maritimes Gameworks aka Homealone Specifications)
+- 👀 I dabble in random programming projects (particular interest in geospatial data), DAW-less music production
+- 🎓 Major in Mathematics and minors in GIS and Computer Science
 - 🔨 Tools of choice: Python, Godot Engine
 - 💻 Varied levels of experience in: C#, HTML/CSS, JavaScript, R, SQL
 - 💞️ Open to collaboration, be it game dev, data stuff, music making, or just plain old chatting!
