@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan! (aka Maritimes Gameworks aka Homealone Specifications)
+- 👋 Hi, I’m Jan! (aka Maritimes Gameworks aka Homealone)
 - 👀 I dabble in random programming projects (particular interest in geospatial data), DAW-less music production
 - 🎓 Major in Mathematics and minors in GIS and Computer Science
 - 🔨 Tools of choice: Python, Godot Engine
