@@ -5,8 +5,8 @@
 - 💻 Professional tools: Anaconda, Alteryx, SQL
 - 💞️ Open to collaboration: be it game dev, data stuff, music making - or just plain old chatting! :)
   - 📫 Contact me directly on Discord - jan_bot
-  - 🐦 Bird app/X: [@MaritimesGames](https://twitter.com/MaritimesGames)
-  - 🕹️ Itch.io: [Maritimes Gameworks](https://maritimes-gameworks.itch.io/)
+  - 🦋 BlueSky: [@homealonespecifications](https://bsky.app/profile/homealonespecifications.itch.io)
+  - 🕹️ Itch.io: [Homealone Specifications](https://homealonespecifications.itch.io/)
   - 📺 YouTube (this one rarely gets updated lol): [Homealone Specifications](https://www.youtube.com/@yunghomealone)
   - 🎧 Music stuff: [SoundCloud](https://soundcloud.com/skrumpti0uzz)
 
