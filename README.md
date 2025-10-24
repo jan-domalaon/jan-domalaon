@@ -1,14 +1,9 @@
-- 👋 Hi, I’m Jan!
-- 👀 I dabble in random programming projects (particular interest in geospatial data), video game development, DAW-less music production
-- 🎓 Major in Mathematics and minors in GIS and Computer Science. Professionally in Data Science.
-- 🔨 Hobby tools of choice: Python, Godot Engine
-- 💻 Professional tools: Anaconda, Alteryx, SQL
-- 💞️ Open to collaboration: be it game dev, data stuff, music making - or just plain old chatting! :)
-  - 📫 Contact me directly on Discord - jan_bot
-  - 🦋 BlueSky: [@homealonespecifications](https://bsky.app/profile/homealonespecifications.itch.io)
-  - 🕹️ Itch.io: [Homealone Specifications](https://homealonespecifications.itch.io/)
-  - 📺 YouTube (this one rarely gets updated lol): [Homealone Specifications](https://www.youtube.com/@yunghomealone)
-  - 🎧 Music stuff: [SoundCloud](https://soundcloud.com/skrumpti0uzz)
+👋 Hi, I'm Jan! I'm in the spatial data science field, and a hobbyist game developer. Occasional DAW-less music producer too.
+  - 📫 Feel free to contact me directly on Discord - jan_bot
+  - ✉️ Or electronic mail - janbot_sec@protonmail.com
+  - 🕹️ [Homealone Specifications](https://homealonespecifications.itch.io/)
+  - 🎧 [SoundCloud](https://soundcloud.com/skrumpti0uzz)
+  - 🌐 [Personal Blog](https://jandomalaon.wordpress.com/)
 
 <!---
 jan-domalaon/jan-domalaon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
